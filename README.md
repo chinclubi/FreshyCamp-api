@@ -6,4 +6,3 @@
 3. `node lib\server.js`
 4. Enjoy!
 
-###Require [node js](https://nodejs.org/)
